@@ -2,8 +2,8 @@
 
 # Zoya Rasool
 
-### > Software Engineering Student • DevOps Aspirant • CI/CD Enthusiast  
-### > Building systems that automate, recognize, and simplify real-world problems.
+### Software Engineering Student • DevOps Aspirant • CI/CD Enthusiast  
+### Building systems that automate, recognize, and simplify real-world problems.
 
 </div>
 
