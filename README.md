@@ -40,10 +40,9 @@ My focus is shifting toward:
 | Project | Domain | Tech Stack | Status | What it does |
 |--------|--------|------------|--------|--------------|
 | Smart Attendance System (Face Recognition) | AI / Automation | Python, OpenCV, Tkinter, OpenPyXL | Completed | Real-time face-based attendance system with Excel logging |
-| Digital Lock System | DLD / Hardware Logic | CircuitVerse, Logic Gates | Completed | Password verification using digital logic design |
 | Task Management System | Full Stack | React, Node.js, Express, MongoDB | Completed | CRUD task manager with dashboard and filtering |
 | Real-Time Sign Language Translator | AI / Accessibility Tech | Python, OpenCV (expanding ML) | In Progress | Converts sign gestures into text output for communication support |
-| DevOps + AI Mini Experiments | DevOps / AI | Python, CI/CD concepts | In Progress | Learning automation workflows and system deployment basics |
+| Digital Lock System | DLD / Hardware Logic | CircuitVerse, Logic Gates | Completed | Password verification using digital logic design |
 
 ---
 
@@ -72,12 +71,6 @@ To become a DevOps Engineer who understands both:
 
 ---
 
-## NOTE
-
-Most of my work is learning-driven and experimental.
-I refine systems over time instead of rebuilding from scratch.
-
----
 Currently building toward DevOps engineering while experimenting with AI-based systems.
 
 </div>
