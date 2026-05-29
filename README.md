@@ -9,7 +9,7 @@
 
 ---
 
-## SYSTEM PROFILE
+## ABOUT ME 
 
 I don’t just write code — I build small systems that solve specific problems.
 
@@ -24,7 +24,7 @@ My focus is shifting toward:
 
 ---
 
-## TECH STACK (CURRENT)
+## TECH STACK
 
 - Languages: C++, Python  
 - AI / CV: OpenCV, face_recognition  
